@@ -10,13 +10,15 @@
     "lint": "eslint ",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist --cname www.heypranav.com"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
     "@fontsource/roboto": "^5.2.5",
+    "@mui/icons-material": "^7.0.1",
     "@mui/material": "^7.0.1",
+    "framer-motion": "^12.6.3",
     "motion": "^12.6.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
