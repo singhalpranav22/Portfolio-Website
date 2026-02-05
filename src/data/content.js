@@ -94,7 +94,7 @@ export const gaming = {
     gamertag: 'DAmnPLayer2228',
     platform: 'Xbox',
     profileUrl: 'https://www.xbox.com/en-IN/play/user/DAmnPLayer2228',
-    favoriteGames: ['Halo', 'Forza', 'Gears of War'],
+    favoriteGames: ['GTA V', 'Forza Horizon 5',],
 };
 
 export const cat = {
